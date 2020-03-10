@@ -12,6 +12,7 @@ The solution WSLemonWay.sln gathers 3 projects :
 This project contains the two webservices demanded :
 - Fibonacci(int n) which returns the value of nth position of the Fibonacci suite as an integer.
 - XmlToJson(string xmlString) which returns xmlString converted to Json formatas a string.
+Both webservices can be called with soap or Json requests. 
 
 ### AppelConsole
 This project runs a console application that calls the Fibonacci webservice from localhost to get the 10th value of the suite and display it, then waits for you to press any key before automatically closing.
@@ -39,4 +40,4 @@ All libraries needed are included in the delivered solution.
 
 
 ## Author and purpose
-This project is developped by Jérémy ALLOUIS in the context of a technical recruiting test. March 2020.
+This project is developped by JÃ©rÃ©my ALLOUIS in the context of a technical recruiting test. March 2020.
