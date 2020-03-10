@@ -1,0 +1,6 @@
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelConsole\obj\Debug\AppelConsole.csprojAssemblyReference.cache
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelConsole\bin\Debug\AppelConsole.exe.config
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelConsole\bin\Debug\AppelConsole.exe
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelConsole\bin\Debug\AppelConsole.pdb
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelConsole\obj\Debug\AppelConsole.exe
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelConsole\obj\Debug\AppelConsole.pdb

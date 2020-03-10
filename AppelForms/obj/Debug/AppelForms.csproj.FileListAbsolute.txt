@@ -1,0 +1,10 @@
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelForms\bin\Debug\AppelForms.exe.config
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelForms\bin\Debug\AppelForms.exe
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelForms\bin\Debug\AppelForms.pdb
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelForms\obj\Debug\AppelForms.csprojAssemblyReference.cache
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelForms\obj\Debug\AppelForms.Form1.resources
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelForms\obj\Debug\AppelForms.Properties.Resources.resources
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelForms\obj\Debug\AppelForms.csproj.GenerateResource.cache
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelForms\obj\Debug\AppelForms.exe
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelForms\obj\Debug\AppelForms.pdb
+C:\Users\Jérémy ALLOUIS\Downloads\WSLemonWay\AppelForms\obj\Debug\AppelForms.frmWaitForm.resources
